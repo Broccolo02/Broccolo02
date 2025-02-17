@@ -10,8 +10,8 @@ Benvenuto nel mio profilo GitHub! 🚀 Qui troverai informazioni su di me e ciò
 
 ## 🛠️ Tecnologie & Strumenti
 
-- 🌐 **Frontend:** HTML, CSS e Javascript;
-- ⚙️ **Backend:** java, c, c#, (in procinto di imparare Python)
+- 🌐 **Frontend:** HTML, CSS e Javascript
+- ⚙️ **Backend:** java, c, c#, (e in procinto di imparare Python)
 - 🗄️ **Database:** MySQL
 
 ---
