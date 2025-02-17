@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Ciao, sono Manuel!
 
-<!--
-**Broccolo02/Broccolo02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Benvenuto nel mio profilo GitHub! 🚀 Qui troverai informazioni su di me e ciò su cui sto lavorando.
 
-Here are some ideas to get you started:
+🔥 Chi sono
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍🎓 Studente dell'università di Padova
+
+🎯 Interessato allo sviluppo di AI
+
+📚 Sempre alla ricerca di nuove cose da imparare
+
+🛠️ Tecnologie & Strumenti
+
+🌐 Frontend: HTML, CSS e Javascript;
+
+⚙️ Backend: java, c, c#, (in procinto di imparare Python)
+
+🗄️ Database: MySQL
+
+💡 "Coffe is the essence of life." 🚀
